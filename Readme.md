@@ -9,7 +9,7 @@
 
 >I Deployed my Site on Netlify and Vercel. so you can check it out 👇
 <br> [https://trend-daafd8.netlify.app](https://trend-daafd8.netlify.app)
-<br> [assignment-1-more.vercel.app](assignment-1-more.vercel.app)
+<br> [https://assignment-1-more.vercel.app/](https://assignment-1-more.vercel.app/)
 
 ## What I Learned from this Project?
 
