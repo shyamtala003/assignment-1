@@ -18,6 +18,9 @@
  - I leaned how z-index property actualy works.
  - I leaned about how i can change font properties of placeholder 
 
+
+## This Project took around 3:00 Hours to complate.
+
 ## Author
 
 - [@shyamtala](https://github.com/shyamtala003)
